@@ -1,13 +1,13 @@
 ---
 layout: about
-title: about
+title: Homeofficeweek
 permalink: /
 subtitle: <a href='https://germering.feg.de'>FeG Germering</a>. Bahnhofsplatz 10 - 82110 Germering. <a href='https://germering.feg.de/kontakte/'>Contacts.</a> 
 
 profile:
   align: top
   image: feg_logo_text.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info:
 
 
@@ -17,3 +17,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+Vom 21.6.-266.2025 findet in der FeG Germering die Homeoffice Week statt. 
+
+Wer mal einen Homeoffice-Tag nicht zu Hause sondern zusammen mit anderen Menschen aus der Gemeinde oder Freunden verbringen möchte ist recht herzlich dazu eingeladen.
+
+Folgende Informationen stehen euch zur Verfügung.
+
+* [Grundsätzlicher Rahmenbedingungen und Ablauf](_projects/ablauf.md) [\_data/cv.yml](_data/cv.yml)
+* technische Möglichkeiten
+* Alles Rund um das leibliche Wohl
+
+[![CV Preview](readme_preview/cv.png)](https://alshedivat.github.io/al-folio/cv/)
