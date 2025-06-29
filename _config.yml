@@ -192,6 +192,8 @@ exclude:
   - readme_preview/
   - vendor
   - DEL_pages/
+  - DEL_posts/
+  - DEL_projects/
 keep_files:
   - CNAME
   - .nojekyll
