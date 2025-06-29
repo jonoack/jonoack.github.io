@@ -17,13 +17,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-# Herzlich Willkommen
+## Herzlich Willkommen
 
-Vom 21.6.-266.2025 findet in der FeG Germering die Homeoffice Week statt. 
+Vom 21.7.-26.7.2025 findet in der FeG Germering die Homeoffice Week statt. 
 
 Wer mal einen Homeoffice-Tag nicht zu Hause sondern zusammen mit anderen Menschen aus der Gemeinde oder Freunden verbringen möchte ist recht herzlich dazu eingeladen.
 
-## Folgende Informationen stehen euch zur Verfügung.
+## Folgende Informationen habe wir für euch zusammengestellt.
 
 * [Grundsätzlicher Rahmenbedingungen und Ablauf](projects/ablauf/)
 * [technische Möglichkeiten](projects/technische_ausruestung/)
