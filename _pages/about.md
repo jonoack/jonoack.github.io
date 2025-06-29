@@ -7,7 +7,7 @@ subtitle: <a href='https://germering.feg.de'>FeG Germering</a>. Bahnhofsplatz 10
 profile:
   align: top
   image: feg_logo_text.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info:
 
 
@@ -23,8 +23,8 @@ Wer mal einen Homeoffice-Tag nicht zu Hause sondern zusammen mit anderen Mensche
 
 Folgende Informationen stehen euch zur Verfügung.
 
-* [Grundsätzlicher Rahmenbedingungen und Ablauf](_projects/ablauf.md) [\_data/cv.yml](_data/cv.yml)
-* technische Möglichkeiten
-* Alles Rund um das leibliche Wohl
+* [Grundsätzlicher Rahmenbedingungen und Ablauf](projects/ablauf/)
+* [technische Möglichkeiten](projects/technische_ausruestung/)
+* [Alles Rund um das leibliche Wohl](projects/verpflegung)
 
 [![CV Preview](readme_preview/cv.png)](https://alshedivat.github.io/al-folio/cv/)
