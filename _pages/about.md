@@ -17,14 +17,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+# Herzlich Willkommen
+
 Vom 21.6.-266.2025 findet in der FeG Germering die Homeoffice Week statt. 
 
 Wer mal einen Homeoffice-Tag nicht zu Hause sondern zusammen mit anderen Menschen aus der Gemeinde oder Freunden verbringen möchte ist recht herzlich dazu eingeladen.
 
-Folgende Informationen stehen euch zur Verfügung.
+## Folgende Informationen stehen euch zur Verfügung.
 
 * [Grundsätzlicher Rahmenbedingungen und Ablauf](projects/ablauf/)
 * [technische Möglichkeiten](projects/technische_ausruestung/)
 * [Alles Rund um das leibliche Wohl](projects/verpflegung)
 
-[![CV Preview](readme_preview/cv.png)](https://alshedivat.github.io/al-folio/cv/)
+<!--   example for HTML LInks
+# [![CV Preview](readme_preview/cv.png)](https://alshedivat.github.io/al-folio/cv/)
+-->
