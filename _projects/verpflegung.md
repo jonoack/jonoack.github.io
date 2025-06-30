@@ -18,5 +18,5 @@ giscus_comments: true
 
 ### Geschirr und Ausstattung
 
-* Tassen, Geschirr können aus der Gemeindeküche verwendet werden
-* Die Bitte ist, dass am Ende des Tages alles Geschirr gereinigt und abgewaschen ist. Hier setzen wir auf Selbstorganisation
+* Tassen, Geschirr können aus der Gemeindeküche verwendet werden.
+* Die Bitte ist, dass am Ende des Tages alles Geschirr gereinigt und abgewaschen ist. Hier setzen wir auf Selbstorganisation.
