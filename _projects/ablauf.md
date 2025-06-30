@@ -8,7 +8,7 @@ category: work
 giscus_comments: true
 ---
 
-## Aus was kannst du dich einstellen?
+---
 
 ### Zeiten
 
