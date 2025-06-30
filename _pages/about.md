@@ -25,6 +25,8 @@ Wer mal einen Homeoffice-Tag nicht zu Hause sondern zusammen mit anderen Mensche
 
 Wir wollen damit eine Möglichkeit für weitere Gemeinschaft schaffen. 
 
+**Wenn du teilnehmen möchtest dann kannst du [dich hier eintragen](ttps://nuudel.digitalcourage.de/R6eq4VB6Xy7BcJZV).**
+
 ## Folgende Informationen habe wir für euch zusammengestellt.
 
 * [Grundsätzlicher Rahmenbedingungen und Ablauf](projects/ablauf/)
