@@ -29,7 +29,7 @@ Wir wollen damit eine Möglichkeit für weitere Gemeinschaft schaffen.
 
 ## Folgende Informationen habe wir für euch zusammengestellt.
 
-* [Grundsätzlicher Rahmenbedingungen und Ablauf](projects/ablauf/)
+* [Grundsätzliche Rahmenbedingungen und Ablauf](projects/ablauf/)
 * [technische Möglichkeiten](projects/technische_ausruestung/)
 * [Alles Rund um das leibliche Wohl](projects/verpflegung)
 
